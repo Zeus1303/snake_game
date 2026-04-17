@@ -36,7 +36,7 @@ public:
 };
 
 // ============================================================
-//  GameObject — lớp cơ sở (base class)
+//  GameObject — lớp cơ sở (base class) 
 // ============================================================
 class GameObject {
 protected:
